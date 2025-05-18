@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Najeeb's Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .project { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <h1>My Projects</h1>
+    <div class="project">
+        <h3>Meta Ads Audit for Telemart</h3>
+        <p>Optimized ad campaigns, reducing cost-per-click (CPC) by 25%.</p>
+    </div>
+    <div class="project">
+        <h3>SEO Audit for E-Commerce Brand</h3>
+        <p>Improved organic traffic by 40% through technical SEO fixes.</p>
+    </div>
+    <a href="index.html">← Back to Home</a>
+</body>
+</html>
