@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Najeeb Ahmad Khan - Portfolio</title>
+    <meta name="description" content="Digital Marketing Specialist | SEO Strategist | Content Marketer">
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        img { width: 200px; border-radius: 50%; }
+        nav { margin: 20px; }
+        a { margin: 10px; text-decoration: none; color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Hi, I'm Najeeb Ahmad Khan</h1>
+    <img src="photo.jpg" alt="Professional photo of Najeeb Ahmad Khan">
+    <p>Digital Marketing Specialist | SEO Strategist | Content Marketer</p>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</body>
+</html>
