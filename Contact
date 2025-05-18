@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact Najeeb</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Get in Touch</h1>
+    <p>Email: najeeb@domain.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/najeebahmadkhan">linkedin.com/in/najeebahmadkhan</a></p>
+    <a href="index.html">← Back to Home</a>
+</body>
+</html>
